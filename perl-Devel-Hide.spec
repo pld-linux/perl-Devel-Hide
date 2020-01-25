@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Devel
 %define	pnam	Hide
 Summary:	Devel::Hide - Forces the unavailability of specified Perl modules (for testing)

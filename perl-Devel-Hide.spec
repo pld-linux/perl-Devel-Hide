@@ -8,7 +8,7 @@ Summary:	Devel::Hide - Forces the unavailability of specified Perl modules (for 
 #Summary(pl.UTF-8):
 Name:		perl-Devel-Hide
 Version:	0.0008
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl

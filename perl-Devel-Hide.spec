@@ -7,13 +7,13 @@
 Summary:	Devel::Hide - Forces the unavailability of specified Perl modules (for testing)
 #Summary(pl.UTF-8):
 Name:		perl-Devel-Hide
-Version:	0.0008
-Release:	2
+Version:	0.0016
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Devel/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	3b38c60feed1e922093f5f68dd6d5c20
+Source0:	https://www.cpan.org/authors/id/D/DC/DCANTRELL/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	3c1d44f487c1a4e02b315f2832d8d258
 URL:		http://search.cpan.org/dist/Devel-Hide/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
